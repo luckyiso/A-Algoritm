@@ -1,0 +1,23 @@
+﻿  Algorythm A star.cpp
+C:\Users\Michail\Desktop\Algorythm-A-star-master\Algorythm A star.cpp(19,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Michail\Desktop\Algorythm-A-star-master\Algorythm A star.cpp(20,31): warning C4018: <: несоответствие типов со знаком и без знака
+  search algorithm.cpp
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(4,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(14,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(15,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(75,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(76,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  draw.cpp
+C:\Users\Michail\Desktop\Algorythm-A-star-master\draw.cpp(4,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\draw.cpp(5,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\draw.cpp(35,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\draw.cpp(36,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  path_making.cpp
+C:\Users\Michail\Desktop\Algorythm-A-star-master\path_making.cpp(5,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Michail\Desktop\Algorythm-A-star-master\path_making.cpp(6,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  test_system.cpp
+C:\Users\Michail\Desktop\Algorythm-A-star-master\test_system.cpp(55,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(128): warning C4715: Dijkstra: значение возвращается не при всех путях выполнения
+C:\Users\Michail\Desktop\Algorythm-A-star-master\search algorithm.cpp(72): warning C4715: A_star: значение возвращается не при всех путях выполнения
+  Algorythm A star.vcxproj -> C:\Users\Michail\Desktop\Algorythm-A-star-master\x64\Debug\Algorythm A star.exe
